@@ -13,8 +13,6 @@ $ls<br>
 $bash HackCam.sh<br>
 
 
-Kalo ada yang salah i'm sorry
-Love Guys 😘
 
 # Bagi Yang Baru Pakai Termux
 $apt update && apt upgrade<br>
